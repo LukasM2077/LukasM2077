@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1> Hi there, I'm Lukas 👋 </h1>
+
+<h2> Projects </h2>
+
+- [proxmox server cluster] (linkhere)
+
+- [Local AI server] (linkhere)
+
+- [Truenas and home cloud setup] (linkhere)
 
 <!--
 **LukasM2077/LukasM2077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
