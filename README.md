@@ -2,7 +2,7 @@
 
 <h2> Projects </h2>
 
-- [proxmox server cluster] (linkhere)
+- [proxmox server cluster](https://github.com/LukasM2077/ProxmoxClusterServer/tree/main)
 
 - [Local AI server] (linkhere)
 
