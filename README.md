@@ -2,11 +2,15 @@
 
 <h2> Projects </h2>
 
-- [proxmox server cluster](https://github.com/LukasM2077/ProxmoxClusterServer/tree/main)
+- Server setups
 
-- [Local AI server] (linkhere)
+  [proxmox server cluster](https://github.com/LukasM2077/ProxmoxClusterServer/tree/main)
 
-- [Truenas and home cloud setup] (linkhere)
+- Virtual Machines
+  
+   [Local AI server] (linkhere)
+  
+   [Truenas and home cloud setup] (linkhere)
 
 <!--
 **LukasM2077/LukasM2077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
