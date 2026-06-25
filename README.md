@@ -8,7 +8,7 @@
 
 - Virtual Machines
   
-   [Local AI server] (linkhere)
+   [Local AI server](https://github.com/LukasM2077/AI_VM)
   
    [Truenas and home cloud setup] (linkhere)
 
