@@ -10,7 +10,7 @@
   
    [Local AI server](https://github.com/LukasM2077/AI_VM)
   
-   [Truenas and home cloud setup] (linkhere)
+   [Truenas and home cloud setup] (link soon)
 
 <!--
 **LukasM2077/LukasM2077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
